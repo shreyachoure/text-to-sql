@@ -10,6 +10,7 @@
 2. GPT 3.5 Turbo: https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates 
 3. Gemma - 2B: https://huggingface.co/google/gemma-2b
 
+### Model Descriptions
 ![Screenshot 2024-03-18 at 11 17 55 AM](https://github.com/shreyachoure/text-to-sql/assets/56231644/1cc1f288-1aea-4043-a3e2-47089218c9a5)
 
 ## Evaluation 
