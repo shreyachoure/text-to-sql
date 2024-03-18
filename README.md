@@ -13,7 +13,11 @@
 ![Screenshot 2024-03-18 at 11 17 55 AM](https://github.com/shreyachoure/text-to-sql/assets/56231644/1cc1f288-1aea-4043-a3e2-47089218c9a5)
 
 ## Evaluation 
+1. Prompt Engineering Results
+![Screenshot 2024-03-18 at 11 22 20 AM](https://github.com/shreyachoure/text-to-sql/assets/56231644/b0438331-712b-4ff1-acce-db623231c5a7)
+
+2. Supervised Fine Tuning Results
 <img width="1131" alt="Screenshot 2024-03-18 at 11 19 15 AM" src="https://github.com/shreyachoure/text-to-sql/assets/56231644/466d46f5-9380-41ed-9b98-ec21dfadd316">
-![Screenshot 2024-03-18 at 11 20 33 AM](https://github.com/shreyachoure/text-to-sql/assets/56231644/49bd530c-21e8-4d33-a9ce-9740a4400e79)
+
 
 
